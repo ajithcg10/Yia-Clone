@@ -224,9 +224,7 @@ export default function()   {
                   <StartButton> 
                       <Button onClick={Next}>
                           Next <Arrow alt='Image' src={require("../../../Asset/images/Arrow right.svg").default} /> 
-                      </Button> 
-                          
-                          
+                      </Button>    
                     </StartButton>
                 </ButtonContainer>
                 
